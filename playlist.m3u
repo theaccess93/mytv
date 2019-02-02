@@ -9,3 +9,5 @@ http://s001.bgtv.stream/hls/hbo3/index.m3u8?h=XGHzk5dYEVEECbihThbQxw&e=173568960
 http://s001.bgtv.stream/hls/cinemax/index.m3u8?h=odub3QLCR6e0G3c9e4_ebA&e=1735689600
 #EXTINF:0,Cinemax 2
 http://s001.bgtv.stream/hls/cinemax2/index.m3u8?h=PgI3NylsnqhHNQM3oOcpcA&e=1735689600
+#EXTINF:0,Moviestar
+http://s001.bgtv.stream/hls/moviestar/index.m3u8?h=hMGkP8I3as_AgxVmvjFKSg&e=1735689600
