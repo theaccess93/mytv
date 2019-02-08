@@ -15,3 +15,15 @@ http://s001.bgtv.stream/hls/moviestar/index.m3u8?h=hMGkP8I3as_AgxVmvjFKSg&e=1735
 http://s001.bgtv.stream/hls/amc/index.m3u8?h=_lC-lgnXQsXMI2zAOUTiPg&e=1735689600
 #EXTINF:0,TV 1000
 http://s001.bgtv.stream/hls/tv1000/index.m3u8?h=NireE-8gmyQrT8he4BO2PA&e=1735689600
+#EXTINF:0,Discovery
+http://s001.bgtv.stream/hls/discovery/index.m3u8?h=mP6a1C1ZOXIJNegPFweH_g&e=1735689600
+#EXTINF:0,ID
+http://s001.bgtv.stream/hls/id/index.m3u8?h=YmuKH7FCtgyk-iDM9D6brQ&e=1735689600
+#EXTINF:0,Nat Geo
+http://s001.bgtv.stream/hls/ng/index.m3u8?h=_ci7jgIn8mG3q8EyDwQ_DQ&e=1735689600
+#EXTINF:0,Nat Geo Wild
+http://s001.bgtv.stream/hls/natgeowild/index.m3u8?h=7BbaZ8_JN-wiLiPa-BfuYQ&e=1735689600
+#EXTINF:0,AXN
+http://s001.bgtv.stream/hls/axn/index.m3u8?h=64Bycjd8CfMYG1CRo7qqKA&e=1735689600
+
+
