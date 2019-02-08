@@ -13,3 +13,5 @@ http://s001.bgtv.stream/hls/cinemax2/index.m3u8?h=PgI3NylsnqhHNQM3oOcpcA&e=17356
 http://s001.bgtv.stream/hls/moviestar/index.m3u8?h=hMGkP8I3as_AgxVmvjFKSg&e=1735689600
 #EXTINF:0,AMC
 http://s001.bgtv.stream/hls/amc/index.m3u8?h=_lC-lgnXQsXMI2zAOUTiPg&e=1735689600
+#EXTINF:0,TV 1000
+http://s001.bgtv.stream/hls/tv1000/index.m3u8?h=NireE-8gmyQrT8he4BO2PA&e=1735689600
