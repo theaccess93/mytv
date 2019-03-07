@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,BTV
+http://s001.bgtv.stream/hls/btv/index.m3u8?h=QCKTTTBNbSuLoBormqc9hg&e=1735689600
 #EXTINF:0,HBO
 http://s001.bgtv.stream/hls/hbo/index.m3u8?h=J6NGE8ixa8xNCmF2mqqoOw&e=1735689600
 #EXTINF:0,HBO 2
